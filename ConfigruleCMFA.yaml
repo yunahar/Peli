@@ -160,13 +160,7 @@ proxy-groups:
   - name: GAME
     type: select
     proxies:
-     - ava.game.naver.com
-     - df.game.naver.com
-     - account.pmang.game.naver.com
-     - care.pmang.game.naver.com
-     - investor.fb.com
-     - investor.mt.com
-     - investor.atmeta.com
+     - ID-X
      - DIRECT
      - REJECT
 
